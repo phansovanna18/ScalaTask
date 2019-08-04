@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f6adb39-f36b-4316-8c9c-7b229b188f02" name="Default Changelist" comment="" />
+    <list default="true" id="6f6adb39-f36b-4316-8c9c-7b229b188f02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/task1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/task2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/task3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/task4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ScalaTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ScalaTask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +24,19 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OurheFwQNckDjnmqYDXykr61eO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,6 +49,44 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.task4">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task1" />
+      <module name="ScalaTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task2" />
+      <module name="ScalaTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task3" />
+      <module name="ScalaTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task4" />
+      <module name="ScalaTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.task1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -85,10 +137,25 @@
       <option name="presentableId" value="Default" />
       <updated>1564838442417</updated>
       <workItem from="1564838447135" duration="84000" />
+      <workItem from="1564838797696" duration="5013000" />
+      <workItem from="1564845074944" duration="206000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
